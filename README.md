@@ -17,9 +17,9 @@ This repository contains a simple implementation of an online examination system
 5. After completing the exam, the system will display your score.
 
 ### Structure
-`Question.java` : Represents a single question with options and correct answers.
-`Exam.java` : Represents an exam with a list of questions and includes methods to conduct the exam.
-`OnlineExaminationSystem.java` : Main class containing the entry point of the program.
+`Question.java` : Represents a single question with options and correct answers. <br>
+`Exam.java` : Represents an exam with a list of questions and includes methods to conduct the exam. <br>
+`OnlineExaminationSystem.java` : Main class containing the entry point of the program. <br>
 
 ### Sample Questions
 The system comes with sample questions for demonstration purposes. You can customize these questions by modifying the `main` method in the `OnlineExaminationSystem.java file`.
